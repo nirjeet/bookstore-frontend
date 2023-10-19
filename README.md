@@ -6,6 +6,12 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-## Add This to Laravel .env File
+## run project via
 
-`APP_URL=http://localhost:8000 FRONTEND_URL=http://localhost:3000 SANCTUM_STATEFUL_DOMAINS=localhost:3000 SESSION_DOMAIN=localhost`
+`Run backend in laravel`
+`then type npm install and npm run dev`
+
+## crendential for login project
+
+`login project `
+ - username: john@doe.com, password:password

@@ -43,7 +43,7 @@ const email = ref("");
           dark:focus:border-blue-500
           dark:focus:ring-blue-500
         "
-        placeholder="email@laraveller.com"
+        placeholder="email@neeraj sharma.com"
       />
       <div v-if="authStore.errors.email" class="flex">
         <span class="text-red-400 text-sm m-2 p-2">{{

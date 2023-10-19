@@ -29,7 +29,7 @@ const form = ref({
               md:px-[60px]
             "
           >
-            <div class="mb-10 text-center md:mb-16">Laraveller</div>
+            <div class="mb-10 text-center md:mb-16">neeraj sharma</div>
             <form @submit.prevent="authStore.handleLogin(form)">
               <div class="mb-6">
                 <input
